@@ -261,8 +261,14 @@ button{
 .b2{
 		margin: 20px;
 }
-
-
+.largetext h3{
+	
+	text-shadow: white 0em 0em 0.3em;
+}
+button:hover{
+	
+		box-shadow: 0 0 20px 0 #999
+}
 
 
 
